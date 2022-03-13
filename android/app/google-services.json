@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "454213091892",
+    "project_id": "tournzone-sorravl",
+    "storage_bucket": "tournzone-sorravl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454213091892:android:3fba162e93d61ab9aec061",
+        "android_client_info": {
+          "package_name": "com.sorravl.tournzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454213091892-ed9f4ngl59ca8rf9d0ro8kse8j9gaonf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sorravl.tournzone",
+            "certificate_hash": "1eb7f9a718a4ad48c275fc2bed74ae766143e36b"
+          }
+        },
+        {
+          "client_id": "454213091892-ougn355o34mokr5t70v1mlff8r9hlcgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoHlUCtn1piAcPfolp58VyzGdBZ_NNrcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454213091892-ougn355o34mokr5t70v1mlff8r9hlcgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
