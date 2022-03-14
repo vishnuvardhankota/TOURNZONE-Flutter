@@ -32,6 +32,6 @@ TOURNZONE is like WINZO
 
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/93028892/158068157-4a98ac98-d52b-46b0-b1cb-62be8720f947.gif" height="500">    <img src="https://user-images.githubusercontent.com/93028892/158068189-cec66f35-a88b-4811-a863-6461da71ea7e.gif" height="500">        <img src="https://user-images.githubusercontent.com/93028892/158068203-0f561307-a4a3-471c-801f-30f834c635c3.gif" height="500">                   
+<img src="https://user-images.githubusercontent.com/93028892/158094154-d8f95ab4-4b61-4a50-9fa9-14cda1c2247f.gif" height="500">        <img src="https://user-images.githubusercontent.com/93028892/158068157-4a98ac98-d52b-46b0-b1cb-62be8720f947.gif" height="500">    <img src="https://user-images.githubusercontent.com/93028892/158068189-cec66f35-a88b-4811-a863-6461da71ea7e.gif" height="500">        <img src="https://user-images.githubusercontent.com/93028892/158068203-0f561307-a4a3-471c-801f-30f834c635c3.gif" height="500">                   
 
 Your Feedback makes me strong.
